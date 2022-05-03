@@ -5,8 +5,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 // Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
 
-class TestClass {
-
+class Solution {
   public static int tallestBillboard(int[] rods) {
     int sum = 0;
     for (int rod : rods) {
